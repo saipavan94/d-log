@@ -1,0 +1,26 @@
+{
+  "name": "dev-logs",
+  "version": "1.0.0",
+  "description": "Mask all your console.log's with a property. This package is helpful for developers to mask their logs with ease.  ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saipavan94/d-log.git"
+  },
+  "keywords": [
+    "console",
+    "log",
+    "development",
+    "hide",
+    "console.log",
+    "hide",
+    "log",
+    "mask",
+    "log"
+  ],
+  "author": "Saipavan Narasaraj",
+  "license": "ISC"
+}
